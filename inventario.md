@@ -1,6 +1,7 @@
 [2116438]
 [2111950]
 
-[Processori](processori.md)
-[Schede madri](schede_madri.md)
+componenti:
+[Processori](componenti/processori.md)
+[Schede madri](componenti/schede_madri.md)
 
